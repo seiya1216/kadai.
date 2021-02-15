@@ -1,0 +1,23 @@
+.headerBox {
+    color: red;
+    position: fixed;
+    z-index: 10;
+  }
+  .buttonBox {
+    transform: translateY(70px);
+    width: 300px;
+    background-color: #0000ff;
+    font-size: 30px;
+    color: white;
+  }
+  
+  .button {
+    text-align: center;
+    padding: 20px;
+  }
+  .blackBox {
+    transform: translateY(70px);
+    height: 200vh;
+    background-color: black;
+  }
+  
